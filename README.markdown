@@ -45,7 +45,7 @@ This sheet contains a dashboard visualizing employee-related metrics.
 This sheet contains a dashboard summarizing cost and salary data.
 
 **Screenshot**:
-![Cost and Salary Dashboard](images/cost_salary_dashboard.png)
+![Cost and Salary Dashboard](https://github.com/HazemMedhat/HR-Analysis/blob/b39f51797f8c7ceb90d0c84d2896731721f7f8c3/Costs%20and%20Salaries%20Dashboard%20.png)
 
 ### 4. KPIs Pivot Table
 Summarizes key performance indicators:
