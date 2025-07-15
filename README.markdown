@@ -1,7 +1,7 @@
 # HR Data Analysis Project
 
 ## Overview
-This project contains HR data for a company, stored in an Excel file (`Hazem Medhat Project.xlsx`). The dataset includes detailed employee information and various pivot tables summarizing key metrics. This README provides an overview of the data structure, its contents, and potential uses for analysis.
+This project contains HR data for a company, stored in an Excel file (`Hazem Medhat Project.xlsx`). The dataset includes detailed employee information and various pivot tables summarizing key metrics. This README provides an overview of the data structure, its contents, and potential uses for analysis, along with visualizations from the dashboard sheets.
 
 ## Dataset Description
 The dataset is organized into multiple sheets within the Excel file, each serving a specific purpose. Below is a summary of each sheet:
@@ -36,10 +36,16 @@ This sheet contains detailed employee records with the following columns:
 - Employee: LAYLA, Female, 38, Administrator, Saudi Arabia, Total Salary: 4000, Basic Salary: 2600, Total Cost: 4996.92.
 
 ### 2. Employees Dashboard
-This sheet is a placeholder for an employee dashboard.
+This sheet contains a dashboard visualizing employee-related metrics.
+
+**Screenshot**:
+![Employees Dashboard](images/employees_dashboard.png)
 
 ### 3. Cost and Salary Dashboard
-This sheet is a placeholder for a cost and salary dashboard.
+This sheet contains a dashboard summarizing cost and salary data.
+
+**Screenshot**:
+![Cost and Salary Dashboard](images/cost_salary_dashboard.png)
 
 ### 4. KPIs Pivot Table
 Summarizes key performance indicators:
