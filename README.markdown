@@ -39,7 +39,7 @@ This sheet contains detailed employee records with the following columns:
 This sheet contains a dashboard visualizing employee-related metrics.
 
 **Screenshot**:
-![Employees Dashboard](images/employees_dashboard.png)
+![Employees Dashboard](https://github.com/HazemMedhat/HR-Analysis/blob/b42448a27aa33fe2ae9f8dffe096206baf049b7f/Employees%20Dashboard%20.png)
 
 ### 3. Cost and Salary Dashboard
 This sheet contains a dashboard summarizing cost and salary data.
